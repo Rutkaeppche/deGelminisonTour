@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(174, 211, 105);
+}
+h1{color: rgb(12, 16, 65);}
+article{background-color: aquamarine;}
+section{
+    background: slategray;
+    margin: 50px auto;
+    width: 200px;
+    text-align: left;
+}
+nav{
+    margin: 50px auto;
+    width: 800px;
+}
+
+main{
+    background-color: rgb(71, 71, 73);
+    width: 80%;
+    min-width: 500px;
+    max-width: 700px;
+    text-align: center;
+}
+section{
+    font-size: 0;
+}
+img{padding: 5%;
+width: 40%;}

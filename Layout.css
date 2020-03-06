@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(103, 155, 167);
+}
+h1{color: rgb(189, 43, 226);
+font-family: monospace;
+font-weight: bold;
+font-size: 50px;}
+article{background-color: aquamarine;}
+section{
+    margin: 50px auto;
+    width: 90%;
+    text-align: left;
+}
+nav{
+    margin: 50px auto;
+    width: 90%;
+}
+img {
+    height:200px;
+}
+.spalten{display: flex;}
+
+main{
+    margin: 0 auto;
+    max-width: 1000px;
+    min-width: 500px;
+}
+.navitem{
+    padding:4px;
+text-align:center;
+font-family: monospace;
+font-size: 50px;
+}
